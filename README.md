@@ -15,3 +15,9 @@
 2. 安裝cri-dockerd
 3. 安裝 kubeadm kubelet kubectl
 4. join cluster
+
+### 使用指令
+1. vagrant up
+2. vargrant ssh masterNode
+3. sudo -s //使用root
+4. kubectl get nodes
